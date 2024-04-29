@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_description">Event Description</string>
+    <string name = "event_date">April 22,2024</string>
+    <string name="event_time">10:00am</string>
+    <string name="permission">Permissions</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="choose_username">Choose Username</string>
+    <string name="choose_password">Choose Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="exist_user">Already a user?</string>
+    <string name="floating_action_button">Floating Action Button</string>
+</resources>
